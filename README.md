@@ -7,3 +7,6 @@
   - `make` — build the project
   - `make run_main` — run the compiled program
   - `make clean` — remove build artifacts
+ 
+  <img width="765" height="347" alt="image" src="https://github.com/user-attachments/assets/4adabaab-9ab1-412e-801f-0c85812c2795" />
+
