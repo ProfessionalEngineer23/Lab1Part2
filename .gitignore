@@ -6,3 +6,12 @@
 *.obj
 *.exe
 *.out
+
+# Ignore everything in .vscode by default
+.vscode/*
+# Allow shareable configs
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+# (Optionally) allow workspace settings if they are generic & portable
+!.vscode/settings.json
