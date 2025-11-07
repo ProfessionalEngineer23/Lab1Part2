@@ -1,0 +1,5 @@
+# Ignore common C build artifacts
+*.o
+*.obj
+*.exe
+*.out
